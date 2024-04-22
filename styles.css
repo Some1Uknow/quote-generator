@@ -8,8 +8,9 @@ body {
 .maindiv {
    color: white;
    font-size: large;
-   background-color: rgb(1, 31, 51);
+   background-color: rgba(1, 31, 51, 0.7); 
    border-radius: 30px;
    border: 5px solid white;
    width: 500px;
 }
+
